@@ -1,5 +1,4 @@
-# Click to see my Portfolio
-https://github.com/Iamfaizzz/portfolio.git
+# Portfolio
 # Technologies:
 - HTML
 - CSS
