@@ -1,4 +1,4 @@
-# Technologies Used:
+# Tech Stack Used:
 - HTML
 - CSS
 - JS
